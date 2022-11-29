@@ -1,0 +1,14 @@
+{
+    "kitaplar": [
+        {
+            "id": 1,
+            "kitapAdi": "Don Kişot",
+            "yazari": "Cervantes"
+        },
+        {
+            "id": 2,
+            "kitapAdi": "Les Miserables",
+            "yazari": "Victor Hugo"
+        }
+    ]
+}
